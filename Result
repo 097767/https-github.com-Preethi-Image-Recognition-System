@@ -1,0 +1,38 @@
+Image Recognition System
+
+---------------------------------------
+Upload Image: dog.jpg
+---------------------------------------
+
+Processing Image...
+
+Prediction Result:
+🐶 Labrador Retriever
+
+Confidence Score: 98.4%
+
+---------------------------------------
+Upload Another Image: cat.jpg
+---------------------------------------
+
+Processing Image...
+
+Prediction Result:
+🐱 Persian Cat
+
+Confidence Score: 97.1%
+
+---------------------------------------
+Upload Another Image: car.jpg
+---------------------------------------
+
+Processing Image...
+
+Prediction Result:
+🚗 Sports Car
+
+Confidence Score: 96.8%
+
+---------------------------------------
+Status: Prediction Completed Successfully
+---------------------------------------
